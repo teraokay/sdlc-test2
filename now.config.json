@@ -1,0 +1,6 @@
+{
+    "scope": "x_snc_teraoka2",
+    "scopeId": "f18da43031e343e4b7ad11eb91a27e5f",
+    "name": "Maintenance_teraoka2",
+    "tsconfigPath": "./src/server/tsconfig.json"
+}
